@@ -2,6 +2,8 @@
 
 根据 Figma 中的 **Daily Focus — State A / State B** 制作的本地交互原型，使用 React、TypeScript、Vite 和普通 CSS。
 
+线上预览：[Daily Focus](https://daily-focus-orpin.vercel.app/)
+
 ## 启动
 
 源码 ZIP 不包含依赖。解压后，在 `daily-focus` 文件夹中打开终端，先安装依赖再启动。
