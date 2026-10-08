@@ -4,6 +4,10 @@
 
 线上预览：[Daily Focus](https://daily-focus-orpin.vercel.app/)
 
+GitHub 仓库：[william-Xu-cool/JyoShiK1](https://github.com/william-Xu-cool/JyoShiK1)
+
+源码压缩包：[daily-focus-source.zip](archives/daily-focus-source.zip)
+
 ## 启动
 
 源码 ZIP 不包含依赖。解压后，在 `daily-focus` 文件夹中打开终端，先安装依赖再启动。
