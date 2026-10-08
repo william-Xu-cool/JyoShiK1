@@ -1,0 +1,5 @@
+.git/
+archives/
+verification/
+start.command
+*.tsbuildinfo
