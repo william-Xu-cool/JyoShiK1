@@ -3,3 +3,4 @@ archives/
 verification/
 start.command
 *.tsbuildinfo
+.env*
